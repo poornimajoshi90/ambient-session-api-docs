@@ -81,10 +81,10 @@ Don't assume these
 
 | I want to…             | Go to…                               |
 | ---------------------- | ------------------------------------ |
-| Set up auth            | [Authentication →](authentication)   |
-| Make my first API call | [Endpoint →](endpoints)              |
-| Get notified when done | [Webhooks →](webhooks)               |
-| See code examples      | [Example Usage →](response-examples) |
-| Avoid common mistakes  | [Best Practices →](best-practices)   |
+| Set up auth            | [Authentication](docs/authentication.md)  |
+| Make my first API call | [Endpoints](docs/endpoints.md)             |
+| Get notified when done | [Webhooks](docs/webhooks.md)               |
+| See code examples      | [Response Examples](docs/response-examples.md) |
+| Avoid common mistakes  | [Best Practices](docs/best-practices.md)  |
 
 ---
