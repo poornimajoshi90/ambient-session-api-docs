@@ -21,7 +21,7 @@
 | [Webhooks](docs/webhooks.md) | Webhook setup and payload details |
 | [Best-Practice](docs/best-practices.md) | Async workflow, timing, and tips |
 | [AI-Usages](AI-Usage.md) | AI tools used and reasoning |
-| [My_Response](My_Response.md) | Technical writer Slack response |
+| [My-Response](My_Response) | Technical writer Slack response |
 
 ---
 
