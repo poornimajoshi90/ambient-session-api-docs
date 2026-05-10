@@ -18,7 +18,7 @@ The goal was to convert raw, unstructured API product notes into clean, structur
 
 ---
 
-### About Suki.ai
+### 🩺 About Suki.ai
 
 **Suki.ai** is a healthcare technology company that builds AI-powered voice assistants and digital solutions for the healthcare sector.
 
