@@ -14,14 +14,14 @@
 
 | File | Description |
 |---|---|
-| `docs/overview.md` | What the API is and how it works |
-| `docs/authentication.md` | How to authenticate your requests |
-| `docs/endpoint.md` | API endpoint, request body, parameters |
-| `docs/response-examples.md` | Success and error response examples |
-| `docs/webhooks.md` | Webhook setup and payload details |
-| `docs/best-practices.md` | Async workflow, timing, and tips |
-| `AI-Usage.md` | AI tools used and reasoning |
-| `My_Response.md` | Technical writer Slack response |
+| [Overview](docs/overview.md) | What the API is and how it works |
+| [Authentication](docs/authentication.md) | How to authenticate your requests |
+| [Endpoint](docs/endpoint.md) | API endpoint, request body, parameters |
+| [Response-Examples](docs/response-examples.md) | Success and error response examples |
+| [Webhooks](docs/webhooks.md) | Webhook setup and payload details |
+| [Best-Practice](docs/best-practices.md) | Async workflow, timing, and tips |
+| [AI-Usages](AI-Usage.md) | AI tools used and reasoning |
+| [My_Response](My_Response.md) | Technical writer Slack response |
 
 ---
 
@@ -29,15 +29,15 @@
 
 | Requirement | Status | Page |
 |---|---|---|
-| Clear title and overview | ✅ Done | `overview.md` |
-| Authentication section | ✅ Done | `authentication.md` |
-| Endpoint details | ✅ Done | `endpoint.md` |
-| Request body with JSON | ✅ Done | `endpoint.md` |
-| Response examples | ✅ Done | `response-examples.md` |
-| Parameter explanations | ✅ Done | `endpoint.md` |
-| Webhook explanation | ✅ Done | `webhooks.md` |
-| Example usage | ✅ Done | `endpoint.md` + `webhooks.md` |
-| Best practices | ✅ Done | `best-practices.md` |
+| Clear title and overview | ✅ Done |[Overview](docs/overview.md) |
+| Authentication section | ✅ Done | [Authentication](docs/authentication.md) |
+| Endpoint details | ✅ Done | [Endpoint](docs/endpoint.md) |
+| Request body with JSON | ✅ Done | [Endpoint](docs/endpoint.md) |
+| Response examples | ✅ Done | [Response-Examples](docs/response-examples.md) |
+| Parameter explanations | ✅ Done | [Endpoint](docs/endpoint.md) |
+| Webhook explanation | ✅ Done | [Webhooks](docs/webhooks.md) |
+| Example usage | ✅ Done | [Endpoint](docs/endpoint.md) + [Webhooks](docs/webhooks.md) |
+| Best practices | ✅ Done | [Best-Practice](docs/best-practices.md) |
 
 ---
 
