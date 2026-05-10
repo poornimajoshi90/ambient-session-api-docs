@@ -1,0 +1,13 @@
+## Task 3: Technical Writer Response
+
+The developer’s concern is valid — as usage grows, polling can create performance and scalability issues, and it may also cause delays in downstream systems.
+
+The good news is that webhook support is already available in the backend, so most of the implementation work is already complete. The remaining work is mainly documentation and exposure for integrators.
+
+Since the webhook is already built on the backend, I can start on the documentation right away and collaborate with the developer if any technical clarification is needed so both can be ready at the same time.
+
+- UI launch stays on track
+- Webhook documentation gets done in parallel
+- Integrators get better real-time update support
+
+This approach supports both the current release timeline and future scalability.
