@@ -10,9 +10,11 @@
 
 ---
 
-## 🎯 What Is This Project?
+## 🎯 About This Assignment
 
-This project is a technical writing assignment that converts raw, unstructured API product notes into clean, structured developer documentation.
+This documentation was created as part of a technical writing assignment received from Suki.ai.
+
+The goal was to convert raw, unstructured API product notes into clean, structured documentation that is easy to understand for both developers and clinical teams.
 
 ---
 
