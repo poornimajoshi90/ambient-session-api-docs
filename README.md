@@ -14,11 +14,28 @@
 
 This project is a technical writing assignment that converts raw, unstructured API product notes into clean, structured developer documentation.
 
-The **Ambient Session API** is an AI-powered tool built by **Suki Health** that listens to doctor-patient conversations and automatically generates structured clinical notes — so doctors can focus on patients instead of paperwork.
+---
+
+### About Suki.ai
+
+**Suki.ai** is a healthcare technology company that builds AI-powered voice assistants and digital solutions for the healthcare sector.
+
+Its main goal is to reduce the administrative burden on doctors and clinical staff — such as writing medical notes and documenting patient data — so they can spend more time with patients and less time on paperwork.
+
+The **Ambient Session API** is one of Suki's core AI solutions. It listens to doctor-patient conversations during a visit and automatically generates structured clinical notes — without the doctor having to type anything.
+
+**The impact:**
+
+| Before Suki AI | After Suki AI |
+|---|---|
+| Doctor types notes manually after every visit | AI listens and generates notes automatically |
+| 1–2 hours of extra paperwork daily | Doctor just reviews and saves — done in minutes |
+| Less time with patients | More time with patients |
+| Higher burnout risk | Reduced administrative stress |
 
 ---
 
-## 🏥 How Suki Health Uses AI
+## 🏥 How Suki.ai Works
 
 ```mermaid
 flowchart TD
@@ -30,17 +47,7 @@ flowchart TD
     F --> G([✅ Doctor Reviews\nand Saves Notes])
 ```
 
-**Before Suki AI:**
-- Doctor talks to patient
-- Doctor types notes manually after visit
-- Takes 1–2 hours of extra work daily
 
-**After Suki AI:**
-- Doctor talks to patient
-- AI listens and generates notes automatically
-- Doctor just reviews and saves — done in minutes
-
----
 
 ## 📋 Assignment Requirements
 
