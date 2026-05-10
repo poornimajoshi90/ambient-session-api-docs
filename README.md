@@ -16,7 +16,7 @@
 |---|---|
 | [Overview](docs/overview.md) | What the API is and how it works |
 | [Authentication](docs/authentication.md) | How to authenticate your requests |
-| [Endpoint](docs/endpoint.md) | API endpoint, request body, parameters |
+| [Endpoints](docs/endpoints.md) | API endpoint, request body, parameters |
 | [Response-Examples](docs/response-examples.md) | Success and error response examples |
 | [Webhooks](docs/webhooks.md) | Webhook setup and payload details |
 | [Best-Practice](docs/best-practices.md) | Async workflow, timing, and tips |
@@ -31,12 +31,12 @@
 |---|---|---|
 | Clear title and overview | ✅ Done |[Overview](docs/overview.md) |
 | Authentication section | ✅ Done | [Authentication](docs/authentication.md) |
-| Endpoint details | ✅ Done | [Endpoint](docs/endpoint.md) |
-| Request body with JSON | ✅ Done | [Endpoint](docs/endpoint.md) |
+| Endpoint details | ✅ Done | [Endpoint](docs/endpoints.md) |
+| Request body with JSON | ✅ Done | [Endpoint](docs/endpoints.md) |
 | Response examples | ✅ Done | [Response-Examples](docs/response-examples.md) |
-| Parameter explanations | ✅ Done | [Endpoint](docs/endpoint.md) |
+| Parameter explanations | ✅ Done | [Endpoint](docs/endpoints.md) |
 | Webhook explanation | ✅ Done | [Webhooks](docs/webhooks.md) |
-| Example usage | ✅ Done | [Endpoint](docs/endpoint.md) + [Webhooks](docs/webhooks.md) |
+| Example usage | ✅ Done | [Endpoint](docs/endpoints.md) + [Webhooks](docs/webhooks.md) |
 | Best practices | ✅ Done | [Best-Practice](docs/best-practices.md) |
 
 ---
@@ -45,7 +45,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ambient-session-api-docs.git
+git clone https://github.com/poornimajoshi90/ambient-session-api-docs
 
 # Install dependencies
 cd ambient-session-api-docs
