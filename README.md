@@ -71,7 +71,7 @@ This documentation covers all 9 required sections:
 | [Webhooks](docs/webhooks.md) | Webhook setup and payload details |
 | [Best Practices](docs/best-practices.md) | Async workflow, timing, and tips |
 | [AI Usage](AI-Usage.md) | AI tools used and reasoning |
-| [My Response](My_Response.md) | Technical writer Slack response |
+| [My Response](My_Response) | Technical writer Slack response |
 
 ---
 
